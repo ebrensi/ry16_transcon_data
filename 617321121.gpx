@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Exported from Strava"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <link href="http://raceshape.com">
+      <text>Detailed Strava Segment Analysis</text>
+    </link>
+    <time>2016-06-25T04:16:07.000Z</time>
+  </metadata>
+  <trk>
+    <name>Jun. 5 - ,</name>
+    <trkseg>
+      <trkpt lon="-95.54537" lat="38.38854">
+        <ele>365.7</ele>
+        <time>2016-06-05T11:01:30.000Z</time>
+      </trkpt>
+      <trkpt lon="-95.54537" lat="38.38839">
+        <ele>365.7</ele>
+        <time>2016-06-05T11:01:31.000Z</time>
+      </trkpt>
+      <trkpt lon="-95.54537" lat="38.38825">
+        <ele>365.7</ele>
+        <time>2016-06-05T11:01:32.000Z</time>
+      </trkpt>
+      <trkpt lon="-95.54536" lat="38.3881">
+        <ele>365.7</ele>
+        <time>2016-06-05T11:01:33.000Z</time>
+      </trkpt>
+      <trkpt lon="-95.54536" lat="38.38796">
+        <ele>365.7</ele>
+        <time>2016-06-05T11:01:34.000Z</time>
+      </trkpt>
+      <trkpt lon="-95.54535" lat="38.38781">
+        <ele>365.7</ele>
+        <time>2016-06-05T11:01:35.000Z</time>
+      </trkpt>
+      <trkpt lon="-95.54535" lat="38.38767">
+        <ele>365.7</ele>
+        <time>2016-06-05T11:01:36.000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

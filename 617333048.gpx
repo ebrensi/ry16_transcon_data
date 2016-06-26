@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Exported from Strava"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <link href="http://raceshape.com">
+      <text>Detailed Strava Segment Analysis</text>
+    </link>
+    <time>2016-06-25T04:18:01.000Z</time>
+  </metadata>
+  <trk>
+    <name>Jun. 13 - ,</name>
+    <trkseg>
+      <trkpt lon="-88.9093" lat="39.00506">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:06:56.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.90949" lat="39.005">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:06:57.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.90969" lat="39.00494">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:06:58.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.90988" lat="39.00488">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:06:59.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.91007" lat="39.00482">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:07:00.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.91027" lat="39.00476">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:07:01.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.91046" lat="39.0047">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:07:02.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.91065" lat="39.00464">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:07:03.000Z</time>
+      </trkpt>
+      <trkpt lon="-88.91084" lat="39.00458">
+        <ele>183.1</ele>
+        <time>2016-06-13T23:07:04.000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
