@@ -5,4 +5,3 @@ This is set of python scripts to render an interactive heatmap from the gpx file
 
   2. `python csv2js.py`  creates the file [data.js](data.js), which is defines the variable `points` used by the main html file.
 
-
