@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+ <trk>
+  <name>Evening Run</name>
+  <trkseg>
+   <trkpt lat="39.0050590" lon="-88.9093000">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0049990" lon="-88.9094930">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0049400" lon="-88.9096860">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0048800" lon="-88.9098790">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0048200" lon="-88.9100720">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0047600" lon="-88.9102650">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0047010" lon="-88.9104580">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0046410" lon="-88.9106510">
+    <ele>182.7</ele>
+   </trkpt>
+   <trkpt lat="39.0045810" lon="-88.9108440">
+    <ele>182.7</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
