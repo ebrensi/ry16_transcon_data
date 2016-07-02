@@ -3,7 +3,7 @@ from flask_compress import Compress
 
 app = Flask(__name__)
 Compress(app)
-a
+
 
 @app.route('/')
 def hello_world():
