@@ -12,7 +12,7 @@ Warning: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given i
 {"error":"Strava not available"}
 """
 
-data_file_path = "./data_files/"
+data_file_path = "./RY_GPX_Timestamps"
 
 logging.basicConfig(
     format='%(levelname)s:%(message)s',

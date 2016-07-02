@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+ <trk>
+  <name>Morning Run</name>
+  <trkseg>
+   <trkpt lat="38.8879160" lon="-90.1654710">
+    <ele>132.4</ele>
+   </trkpt>
+   <trkpt lat="38.8879160" lon="-90.1654710">
+    <ele>132.4</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
